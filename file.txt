@@ -1,8 +1,1 @@
-test
-<<<<<<< HEAD
-fsd;kfjsklfsdj
-fds;kfjsdhkafj
-fsdjhfdsjkhfdkjdfshjkfsd
-=======
-test 2
->>>>>>> refs/remotes/origin/main
+test 
